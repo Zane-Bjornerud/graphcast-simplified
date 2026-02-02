@@ -1,0 +1,40 @@
+*.npz
+*.nc
+weatherBench2VarData/
+preprocessed_data.npz
+mesh_data.npz
+grid_mesh_mappings.npz
+
+# Model checkpoints
+checkpoints/
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Plots
+evaluation_plots/
+*.png
+*.jpg
+
+# LaTeX auxiliary
+*.aux
+*.log
+*.out
+*.synctex.gz

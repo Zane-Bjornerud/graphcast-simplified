@@ -1,3 +1,8 @@
+# GraphCast Simplified - By Zane Bjornerud
+The entire google repo is intact with all of the files I created in the folder ZaneFileAdditions. 
+
+
+
 # Google DeepMind GraphCast and GenCast
 
 This package contains example code to run and train the weather models used in the research papers [GraphCast](https://www.science.org/doi/10.1126/science.adi2336) and [GenCast](https://arxiv.org/abs/2312.15796).

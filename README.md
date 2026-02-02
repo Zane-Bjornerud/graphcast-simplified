@@ -1,5 +1,5 @@
 # GraphCast Simplified - By Zane Bjornerud
-The entire google repo is intact with all of the files I created in the folder ZaneFileAdditions. 
+The entire google repo is intact. All of the files I created are located in the folder ZaneFileAdditions. 
 
 
 

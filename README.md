@@ -76,6 +76,7 @@ graphcast-simplified/
 │   └── test_graphcast.py           # model tests
 ├── graphcast/                      # DeepMind original (forked)
 ├── docs/  ·  build/  ·  setup.py   # DeepMind original (forked)
+├── Graphcast-Simplified.pdf        # research paper
 └── README.md
 ```
 

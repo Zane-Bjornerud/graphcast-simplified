@@ -35,7 +35,7 @@ The model was evaluated on 500 test samples across four lead times (6h–24h) ag
 - Predictions capture large-scale atmospheric structure (troughs, ridges, latitudinal gradients) but are **excessively smooth**, a signature of MSE-trained models regressing toward conditional means when uncertain about fine-scale features.
 - Error analysis reveals **structured spatial biases** rather than random noise, including a pronounced cold bias in subtropical regions that worsens over the forecast horizon.
 
-See the paper (`/paper`) for full RMSE curves, prediction-vs-target maps, and error visualizations.
+See the paper (`GraphCast_Simplified.pdf`) for full RMSE curves, prediction-vs-target maps, and error visualizations.
 
 ## Why the model underperforms
 

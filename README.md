@@ -1,3 +1,20 @@
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Field](https://img.shields.io/badge/Field-Deep%20Learning-blue)
+![Task](https://img.shields.io/badge/Task-Weather%20Forecasting-orange)
+![Architecture](https://img.shields.io/badge/Architecture-Graph%20Neural%20Network-8E44AD)
+![Result](https://img.shields.io/badge/Result-Reproduction%20Study-yellow)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-5A2D9E)
+![Haiku](https://img.shields.io/badge/dm--haiku-2E8B57)
+![Jraph](https://img.shields.io/badge/Jraph-1E6F5C)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![xarray](https://img.shields.io/badge/xarray-0C4C8A)
+![Dataset](https://img.shields.io/badge/Data-WeatherBench2%20(ERA5)-0288D1)
+![Params](https://img.shields.io/badge/Params-3.5M-607D8B)
+![Hardware](https://img.shields.io/badge/GPU-RTX%203090-76B900?logo=nvidia&logoColor=white)
+![Fork](https://img.shields.io/badge/Fork%20of-DeepMind%2FGraphCast-181717?logo=github&logoColor=white)
+![License](https://img.shields.io/badge/License-Apache%202.0-D22128)
+
 # GraphCast Simplified: Weather Forecasting with Graph Neural Networks
 
 A simplified, reproducible reimplementation of [GraphCast](https://www.science.org/doi/10.1126/science.adi2336) (Lam et al., 2023), DeepMind's graph-neural-network weather model, built to run on a single consumer GPU. This project reproduces the core **encode–process–decode** architecture at a fraction of the original's scale, evaluates it honestly against a persistence baseline, and provides a detailed failure-mode analysis of where and why a heavily simplified model breaks down.
